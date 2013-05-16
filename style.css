@@ -1,0 +1,201 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot');
+	src:url('fonts/icomoon.eot?#iefix') format('embedded-opentype'),
+		url('fonts/icomoon.woff') format('woff'),
+		url('fonts/icomoon.ttf') format('truetype'),
+		url('fonts/icomoon.svg#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+	font-family: 'icomoon';
+	content: attr(data-icon);
+	speak: none;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+
+/* Use the following CSS code if you want to have a class per icon */
+/*
+Instead of a list of all class selectors,
+you can use the generic selector below, but it's slower:
+[class*="icon-"] {
+*/
+.icon-comment, .icon-linkedin-sign, .icon-bell, .icon-yahoo, .icon-icq, .icon-mobile, .icon-tux, .icon-envelope, .icon-plus-sign, .icon-search, .icon-trash, .icon-ok, .icon-remove, .icon-lock, .icon-arrow-up, .icon-bar-chart, .icon-play, .icon-pause, .icon-circle-arrow-right, .icon-wrench, .icon-cog, .icon-ok-sign, .icon-remove-sign, .icon-info-sign, .icon-chevron-left, .icon-warning-sign, .icon-exclamation-sign, .icon-volume-up, .icon-volume-off, .icon-group, .icon-user, .icon-lightbulb, .icon-file-alt, .icon-question-sign, .icon-calendar, .icon-flag, .icon-bell-alt, .icon-cloud-upload, .icon-download-alt, .icon-time, .icon-sitemap, .icon-dashboard, .icon-phone-sign, .icon-exchange, .icon-caret-right, .icon-msn_messenger, .icon-skype, .icon-spinner, .icon-mail, .icon-google-plus, .icon-mobile-2, .icon-winsows, .icon-star, .icon-iphone {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+.icon-comment:before {
+	content: "\e000";
+}
+.icon-linkedin-sign:before {
+	content: "\e001";
+}
+.icon-bell:before {
+	content: "\f0a2";
+}
+.icon-yahoo:before {
+	content: "\e004";
+}
+.icon-icq:before {
+	content: "\e005";
+}
+.icon-mobile:before {
+	content: "\e006";
+}
+.icon-tux:before {
+	content: "\e007";
+}
+.icon-envelope:before {
+	content: "\f003";
+}
+.icon-plus-sign:before {
+	content: "\f0fe";
+}
+.icon-search:before {
+	content: "\f002";
+}
+.icon-trash:before {
+	content: "\f014";
+}
+.icon-ok:before {
+	content: "\f00c";
+}
+.icon-remove:before {
+	content: "\f00d";
+}
+.icon-lock:before {
+	content: "\f023";
+}
+.icon-arrow-up:before {
+	content: "\f062";
+}
+.icon-bar-chart:before {
+	content: "\f080";
+}
+.icon-play:before {
+	content: "\f04b";
+}
+.icon-pause:before {
+	content: "\f04c";
+}
+.icon-circle-arrow-right:before {
+	content: "\f0a9";
+}
+.icon-wrench:before {
+	content: "\f0ad";
+}
+.icon-cog:before {
+	content: "\f013";
+}
+.icon-ok-sign:before {
+	content: "\f058";
+}
+.icon-remove-sign:before {
+	content: "\f057";
+}
+.icon-info-sign:before {
+	content: "\f05a";
+}
+.icon-chevron-left:before {
+	content: "\f053";
+}
+.icon-warning-sign:before {
+	content: "\f071";
+}
+.icon-exclamation-sign:before {
+	content: "\e01c";
+}
+.icon-volume-up:before {
+	content: "\f028";
+}
+.icon-volume-off:before {
+	content: "\f026";
+}
+.icon-group:before {
+	content: "\f0c0";
+}
+.icon-user:before {
+	content: "\f007";
+}
+.icon-lightbulb:before {
+	content: "\f0eb";
+}
+.icon-file-alt:before {
+	content: "\f0f6";
+}
+.icon-question-sign:before {
+	content: "\f059";
+}
+.icon-calendar:before {
+	content: "\f073";
+}
+.icon-flag:before {
+	content: "\f024";
+}
+.icon-bell-alt:before {
+	content: "\f0f3";
+}
+.icon-cloud-upload:before {
+	content: "\f0ee";
+}
+.icon-download-alt:before {
+	content: "\f019";
+}
+.icon-time:before {
+	content: "\f017";
+}
+.icon-sitemap:before {
+	content: "\f0e8";
+}
+.icon-dashboard:before {
+	content: "\f0e4";
+}
+.icon-phone-sign:before {
+	content: "\e02c";
+}
+.icon-exchange:before {
+	content: "\e02d";
+}
+.icon-caret-right:before {
+	content: "\f0da";
+}
+.icon-msn_messenger:before {
+	content: "\e02f";
+}
+.icon-skype:before {
+	content: "\e030";
+}
+.icon-spinner:before {
+	content: "\e031";
+}
+.icon-mail:before {
+	content: "\e032";
+}
+.icon-google-plus:before {
+	content: "\e033";
+}
+.icon-mobile-2:before {
+	content: "\e034";
+}
+.icon-winsows:before {
+	content: "\e035";
+}
+.icon-star:before {
+	content: "\e036";
+}
+.icon-iphone:before {
+	content: "\e037";
+}
